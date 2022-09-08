@@ -1,2 +1,4 @@
 # github-final-project
-This is the repository of Gustavo Zamboni IBM's Git and Github Final project
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input: p, principal amount t, time period in years r, annual rate of interest Output simple interest = ptr
