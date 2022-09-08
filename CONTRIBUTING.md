@@ -4,5 +4,5 @@ All contributions, <br>
   <li>bug fixes,</li> 
   <li>documentation improvements,</li> 
   <li>enhancements,</li> 
-  <li>and ideas are <h3 style="display:inline">welcome!</h3></li
+  <li>and ideas are <strong>welcome!</strong></li>
 </ul>
